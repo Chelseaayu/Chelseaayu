@@ -1,4 +1,4 @@
-model-year,brand,transmission,Gear,fuel-type,cylinders,engine_size-L,fuel_con_avg-L/km
+model-year,brand,transmission,Gear,fuel-type,Cylinders,engine_size-L,fuel_con_avg-L/km
 2023,Acura,AS,8,Z,2,2.00,0.8975
 2023,Acura,AM,10,Z,5,3.00,0.0765
 2023,Acura,AM,10,Z,5,3.00,0.8975
