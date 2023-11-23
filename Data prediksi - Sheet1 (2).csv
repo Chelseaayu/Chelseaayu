@@ -9,8 +9,8 @@ model-year,brand,transmission,Gear,fuel-type,Cylinders,engine_size-L,fuel_con_av
 2023,Alfa Romeo,A,7,Z,3,4.00,0.0765
 2023,Alfa Romeo,A,8,Z,0,4.00,0.0988
 2023,Alfa Romeo,A,7,Z,2,2.00,0.0988
-2023,Aston martin,A,9,Z,4,5.00,0.0765
-2023,Aston martin,A,8,Z,3,4.00,1.5690
+2023,Aston martin,A,9,D,4,5.00,0.0765
+2023,Aston martin,A,8,E,3,4.00,1.5690
 2023,Aston martin,A,8,Z,4,2.00,0.0988
 2023,Aston martin,A,9,Z,2,2.00,0.0765
 2023,Aston martin,A,9,Z,4,3.00,0.0765
